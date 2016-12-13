@@ -1,0 +1,9 @@
+title: Chai
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
