@@ -34,7 +34,6 @@ header {
     padding: 0px 15px;
     text-align: center;
     margin: 50px 0 0;
-    height: 39vh;
     justify-content: center;
     align-items: center;
     p {
@@ -97,3 +96,6 @@ aside {
     }
 }
 
+html {
+    overflow-y: scroll; 
+}
