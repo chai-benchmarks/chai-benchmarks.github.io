@@ -27,7 +27,7 @@ permalink: /gettingstarted/
   Select desired benchmark:
 
   ```
-  cd BS
+  cd BFS
   ```
 
   Compile:
@@ -39,12 +39,12 @@ permalink: /gettingstarted/
   Execute:
 
   ```
-  ./bs
+  ./bfs
   ```
 
   For help instructions:
 
   ```
-  ./bs -h
+  ./bfs -h
   ```
 
