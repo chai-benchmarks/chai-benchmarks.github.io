@@ -9,7 +9,8 @@ layout: default
 
   Each benchmark has multiple implementations.
   The OpenCL 2.0 and OpenCL 1.2 implementations have been released.
-  The CUDA 7.5, CUDA 8.0, and C++AMP implementations and underway.
+  The CUDA, CUDA-Sim, and C++AMP implementations are underway.
+  If you would like early access to premature versions, please contact us.
 
-  Check out our [Getting Started](gettingstarted) page for instructions on how download and use the benchmarks.
+  Check out our [Getting Started](gettingstarted) page for instructions on how to download and use the benchmarks.
 
