@@ -4,47 +4,47 @@ title: Getting Started
 permalink: /gettingstarted/
 ---
 
-  Clone the repository:
+Clone the repository:
 
-  ~~~
+~~~
   git clone https://github.com/chai-benchmarks/chai.git
   cd chai
-  ~~~
+~~~
 
-  Export environment variables:
+Export environment variables:
 
-  ~~~
+~~~
   export CHAI_OCL_LIB=<path/to/OpenCL/lib>
   export CHAI_OCL_INC=<path/to/OpenCL/include>
-  ~~~
+~~~
 
-  Select desired implementation:
+Select desired implementation:
 
-  ~~~
+~~~
   cd OpenCL2.0
-  ~~~
+~~~
 
-  Select desired benchmark:
+Select desired benchmark:
 
-  ~~~
+~~~
   cd BFS
-  ~~~
+~~~
 
-  Compile:
+Compile:
 
-  ~~~
+~~~
   make
-  ~~~
+~~~
 
-  Execute:
+Execute:
 
-  ~~~
+~~~
   ./bfs
-  ~~~
+~~~
 
-  For help instructions:
+For help instructions:
 
-  ~~~
+~~~
   ./bfs -h
-  ~~~
+~~~
 
