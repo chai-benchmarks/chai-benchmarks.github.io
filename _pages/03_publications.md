@@ -20,7 +20,7 @@ Other publications:
   [\[pdf\]](/assets/icpe17.pdf)
   [\[bibtex\]](/assets/icpe17.bib)
 
-* V. Garcia-Flores, J. Gómez-Luna, T. Grass, A. Rico, E. Ayguade, A. J. Peña
+* V. Garcia-Flores, J. Gómez-Luna, T. Grass, A. Rico, E. Ayguade, A. J. Peña.
   **Evaluating the effect of last-level cache sharing on integrated GPU-CPU systems with heterogeneous applications.**
   In *Proceedings of IEEE International Symposium on Workload Characterization (IISWC)*, 2016.
 
