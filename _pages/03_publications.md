@@ -12,3 +12,11 @@ Please cite the following paper if you find our benchmark suite useful:
   [\[pdf\]](/assets/ispass17.pdf)
   [\[bibtex\]](/assets/ispass17.bib)
 
+Other publications:
+
+* L. Chang, J. Gómez-Luna, I. El Hajj, S. Huang, D. Chen, W.-M. Hwu.
+  **Collaborative Computing for Heterogeneous Integrated Systems.**
+  In *Proceedings of ACM/SPEC International Conference on Performance Engineering (ICPE)*, 2017.
+  [\[pdf\]](/assets/icpe17.pdf)
+  [\[bibtex\]](/assets/icpe17.bib)
+
