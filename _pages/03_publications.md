@@ -23,5 +23,6 @@ Other publications:
 * V. Garcia-Flores, J. Gómez-Luna, T. Grass, A. Rico, E. Ayguade, A. J. Peña.
   **Evaluating the effect of last-level cache sharing on integrated GPU-CPU systems with heterogeneous applications.**
   In *Proceedings of IEEE International Symposium on Workload Characterization (IISWC)*, 2016.
+  [\[pdf\]](/assets/iiswc16.pdf)
   [\[bibtex\]](/assets/iiswc16.bib)
 
