@@ -21,7 +21,7 @@ Export environment variables:
 Select desired implementation:
 
 ~~~
-  cd OpenCL2.0
+  cd OpenCL-U
 ~~~
 
 Select desired benchmark:
