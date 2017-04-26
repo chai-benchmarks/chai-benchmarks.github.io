@@ -10,6 +10,7 @@ Please cite the following paper if you find our benchmark suite useful:
   **Chai: Collaborative Heterogeneous Applications for Integrated-architectures.**
   In *Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)*, 2017.
   [\[pdf\]](/assets/ispass17.pdf)
+  [\[slides\]](/assets/ispass17.pptx)
   [\[bibtex\]](/assets/ispass17.bib)
 
 Other publications:
@@ -18,6 +19,7 @@ Other publications:
   **Collaborative Computing for Heterogeneous Integrated Systems.**
   In *Proceedings of ACM/SPEC International Conference on Performance Engineering (ICPE)*, 2017.
   [\[pdf\]](/assets/icpe17.pdf)
+  [\[slides\]](/assets/icpe17.pptx)
   [\[bibtex\]](/assets/icpe17.bib)
 
 * V. Garcia-Flores, J. Gómez-Luna, T. Grass, A. Rico, E. Ayguade, A. J. Peña.
